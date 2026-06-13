@@ -41,8 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/RBF8wF4.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![video walkthrough](https://github.com/user-attachments/assets/a498232d-e6cd-4583-a217-53da7416eb4d)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:

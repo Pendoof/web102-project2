@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![video walkthrough](https://github.com/user-attachments/assets/a498232d-e6cd-4583-a217-53da7416eb4d)
+![video walkthrough](https://github.com/user-attachments/assets/2bea04a8-3e77-4bba-b6dc-5b6015aa2946)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:

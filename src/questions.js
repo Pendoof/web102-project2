@@ -24,7 +24,7 @@ const questions = [
 		src: "https://m.media-amazon.com/images/I/81UQlso+frL._AC_UF1000,1000_QL80_.jpg",
 	},
 	{
-		question: "What dual typing does Gyarados have?",
+		question: "What dual typing does Gyarados have? type1/type2",
 		answer: "Water/Flying",
 		difficulty: "Medium",
 		src: "https://img.pokemondb.net/artwork/large/gyarados.jpg",
